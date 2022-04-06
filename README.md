@@ -24,3 +24,7 @@ Make documentation and copy to `docs`:
     make github
 ```
 (or `make html` and then `cp -a _build/html/. ../docs`)
+
+Then open https://nchaly.github.io/sphinx-github-pages/ to check deployed documentation.
+
+(Create by the tutorial: https://www.docslikecode.com/articles/github-pages-python-sphinx/ )
