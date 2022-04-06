@@ -1,0 +1,29 @@
+app.data\_module
+================
+
+.. automodule:: app.data_module
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      DataTransformer
+   
+   
+
+   
+   
+   
+
+
+
