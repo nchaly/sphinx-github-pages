@@ -1,0 +1,11 @@
+name: sph_gh_test
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9.7
+  - pip=21.3.1
+  - sphinx=4.3.0 
+  - pip:
+      - click==8.0.3
+      - sphinx-click==3.0.2
